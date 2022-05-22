@@ -2,12 +2,12 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
+<img align= "right" alt="Coding" width="480" height="auto"  src="" height="175px"/></a>
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
-🌱 I’m currently learning Django.<br>
+🌱 I’m currently learning java<br>
 👯 I’m looking to collaborate with other programmers.<br>
-⚡️ Fun fact:I love to Travel.<br>
-📫 How to reach me **msamilmanadiyil2560@gmail.com**
+⚡️ Fun fact:I love to video editing.<br>
+📫 How to reach me **upasnath2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,10 +24,10 @@
 ## 📊 My Github Stats
         
   <br/>
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=amilmshaji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilmshaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=Upasnath&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upasnath&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 <br/>
-<img alt="Amil M Shaji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amilmshaji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="UPAS NATH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Upasnath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
