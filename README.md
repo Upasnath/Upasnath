@@ -3,10 +3,10 @@
 
 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a><br>
-🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
+🔭 I’m currently an MCA student in Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently learning java<br>
 👯 I’m looking to collaborate with other programmers.<br>
-⚡️ Fun fact:I love to video editing.<br>
+⚡️ Fun fact:I love video editing.<br>
 📫 How to reach me **upasnath2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
