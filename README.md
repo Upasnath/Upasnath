@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upas</h1>
 # 💫 About Me:
 🔭 I’m currently an MCA student in Amal Jyothi College,Kanjirapally.<br>🌱 I’m currently learning java<br>👯 I’m looking to collaborate with other programmers.<br>⚡️ Fun fact:I love video editing & content creater<br>📫 How to reach me upasnath2016@gmail.com
-<h1 align="center">Hi 👋, I'm Upas</h1>
+
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
 
