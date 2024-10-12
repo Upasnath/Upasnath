@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Upas</h1>
-# 💫 About Me:
-🔭 I’m currently an FullStack developer <br>🌱 I’m currently learning DotNet Core & Angular<br>👯 I’m looking to collaborate with other programmers.<br>⚡️ Fun fact:I love video editing & content creater<br>📫 How to reach me upasnath2016@gmail.com
-
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<h1 align="center">Hi 👋, I'm Upas</h1> # 💫 About Me: 🔭 I’m currently a Full Stack Developer specializing in .NET, .NET Core Web API, and Angular (versions 9 and 14).<br>🌱 I’m continuously learning and expanding my skills in these technologies.<br>👯 I’m looking to collaborate with other programmers.<br>⚡️ Fun fact: I love video editing and content creation!<br>📫 How to reach me: upasnath2016@gmail.com <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
 
 # 💻 Tech Stack:
